@@ -75,7 +75,7 @@ class PlgSystemBluticconsent extends CMSPlugin
 
         try {
             // Build the script URL
-            $scriptUrl = 'https://d18adlsf7yn9zn.cloudfront.net/blutic-cookie/banner-sdk.js?domainId=' . $domainId;
+            $scriptUrl = 'https://d18adlsf7yn9zn.cloudfront.net/blutic-cookie/banner-sdk.js?domainId=' . $domainId . '&plugin=joomla';
 
             // Add the script to document head
             $doc->addScript($scriptUrl, ['async' => true], ['async' => 'async']);
