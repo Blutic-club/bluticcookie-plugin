@@ -23,7 +23,7 @@ This plugin automatically adds the Blutic Cookie Consent Banner to your Joomla s
 4. Enter the following URL in the **Install from URL** field:
 
    ```
-   https://github.com/Blutic-club/bluticcookie-plugin/archive/refs/tags/v2.0.0.zip
+   https://github.com/Blutic-club/bluticcookie-plugin/archive/refs/tags/v2.1.0.zip
    ```
 
 5. Click **Check and Install**
