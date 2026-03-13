@@ -81,6 +81,10 @@ This plugin is licensed under the **GPL v2 or later**.
 
 ## Changelog
 
+### Version 2.1.0
+
+- Added `plugin` query parameter to script URL for better tracking
+
 ### Version 2.0.0
 
 - Initial stable release
